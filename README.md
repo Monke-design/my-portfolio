@@ -1,8 +1,11 @@
 # Welcome to Luka's Portfolio
-Welcome to my portfolio, 
+
+Welcome to my portfolio,
 this project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ![Dark blue background, and baby blue letters. Projects at the top, in a big font, and 3 gears in the bottom left.](./Portfolio_Screenshot.png)
+
+Demo: https://monke-design.github.io/my-portfolio/
 
 ## Available Scripts
 
